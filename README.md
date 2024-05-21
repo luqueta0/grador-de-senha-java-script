@@ -1,0 +1,1 @@
+# grador-de-senha-java-script
